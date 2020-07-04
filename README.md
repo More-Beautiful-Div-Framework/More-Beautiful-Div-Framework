@@ -14,3 +14,4 @@ You can try to add json file, the format is as follows
 
 The name, background, color, deg, font-family, and content can be changed
 Don't forget to fork and then modify and submit PR!
+Among them, font-family can only be one font!
